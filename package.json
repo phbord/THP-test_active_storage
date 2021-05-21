@@ -1,0 +1,7 @@
+{
+  "name": "THP-test_active_storage",
+  "private": true,
+  "dependencies": {
+    "@rails/activestorage": "*"
+  }
+}
